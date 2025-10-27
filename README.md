@@ -1,5 +1,5 @@
 # SafeSpaceApp-Submission
-SafeSpace Hackathon Submission – contains the web app link and demo video for the SafeSpace Safety App. No source code included.
+SafeSpace Hackathon Submission – contains the web app link( it wont work please use the last file we sent to run) and demo video for the SafeSpace Safety App. No source code included.
 # How to Run
 
 1. Unzip this folder.
